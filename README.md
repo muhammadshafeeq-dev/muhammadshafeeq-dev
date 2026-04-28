@@ -89,20 +89,17 @@ Flutter
 
 ## 📊 GitHub Stats
 
-![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?muhammadshafeeq-dev=your-muhammadshafeeq-dev&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshafeeq-dev&layout=compact&theme=tokyonight)
 
-## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadshafeeq-dev&theme=tokyonight)
 
-![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadshafeeq-dev&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadshafeeq-dev&theme=tokyo-night)
 
 ---
-## 📊 GitHub Stats
-
-![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true)
-
-![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true&theme=tokyonight)
-
 
 ## 📫 Contact Me
 
