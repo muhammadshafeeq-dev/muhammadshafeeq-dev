@@ -18,23 +18,40 @@ I have experience developing **multi-role systems**, dynamic UI rendering, and s
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Dart, Python, JavaScript  
+### 👨‍💻 Languages  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks:**  
-Flutter, Django  
+---
 
-**State Management:**  
-GetX  
+### ⚙️ Frameworks  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Backend & Database:**  
-Firebase (Firestore, Authentication)  
+---
 
-**Tools & Technologies:**  
-Git, REST APIs  
+### 🧠 State Management  
+![GetX](https://img.shields.io/badge/GetX-State%20Management-8E44AD?style=for-the-badge)
 
-**Concepts:**  
-OOP, MVC Architecture, Real-Time Data Handling  
+---
+
+### ☁️ Backend & Database  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-NoSQL-orange?style=for-the-badge)
+
+---
+
+### 🧰 Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+---
+
+### 🏗 Concepts  
+![OOP](https://img.shields.io/badge/OOP-Concept-green?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Architecture-red?style=for-the-badge)
+![Real Time](https://img.shields.io/badge/Real--Time%20Data-Firebase-yellow?style=for-the-badge)
 
 ---
 
@@ -49,8 +66,6 @@ Flutter, Firebase (Firestore, Auth)
 - Role-based dashboards and workflows  
 - Secure authentication system  
 
-🔗 Repo: https://github.com/muhammadshafeeq-dev/doctor-appointment-app  
-
 ---
 
 ### 🚗 MiAuto Car Rental App
@@ -61,8 +76,6 @@ Flutter, Firebase
 - Real-time database functionality  
 - User-friendly booking interface  
 
-🔗 Repo: https://github.com/muhammadshafeeq-dev/car-rental-app  
-
 ---
 
 ### 💇 Adan Hair Salon App
@@ -72,8 +85,6 @@ Flutter
 - Clean and responsive UI  
 - Service selection and booking management  
 
-🔗 Repo: https://github.com/muhammadshafeeq-dev/salon-booking-app  
-
 ---
 
 ### 📖 Bible FAQ App
@@ -81,23 +92,7 @@ Flutter
 
 - Categorized FAQ-based application  
 - Simple and intuitive UI  
-- Optimized for readability and navigation  
-
-🔗 Repo: https://github.com/muhammadshafeeq-dev/bible-faq-app  
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshafeeq-dev&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadshafeeq-dev&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadshafeeq-dev&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadshafeeq-dev&theme=tokyo-night)
+- Optimized for readability and navigation   
 
 ---
 
