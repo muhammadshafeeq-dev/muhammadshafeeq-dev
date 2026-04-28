@@ -1,138 +1,112 @@
-**MUHAMMAD SHAFEEQ**
+# Hi, I'm Muhammad Shafeeq 👋
 
-Flutter Developer | Software Engineer
+🚀 Flutter Developer | Firebase | Real-Time Applications  
+💻 Software Engineer passionate about building scalable and user-focused mobile apps  
 
-📞 +92 328 6883494✉️[shafeeqashiqai@gmail.com](mailto:shafeeqashiqai@gmail.com)📍Bahawalpur, Pakistan
+---
 
-**PROFESSIONAL SUMMARY**
+## 🧑‍💻 About Me
 
-Flutter Developer specializing in building scalable,real-time mobile applications using Firebase. Experienced in developingmulti-role systems, dynamic UI rendering, and backend integration. Strong focuson clean architecture, performance optimization, and user-centric design.
+I am a Flutter Developer specializing in building **real-time mobile applications using Firebase**.  
+I have experience developing **multi-role systems**, dynamic UI rendering, and scalable app architectures.
 
-**TECHNICAL SKILLS**
+- 🔭 Currently working on Flutter & Firebase projects  
+- 🌱 Learning advanced Flutter architecture and performance optimization  
+- 👨‍💻 Focused on clean code, scalability, and user experience  
 
-*   **Languages:** Dart,
-    
+---
 
-*   **Frameworks:** Flutter,
-    
+## 🛠 Tech Stack
 
-*   **State Management:** GetX
-    
+**Languages:**  
+Dart, Python, JavaScript  
 
-*   **Backend & Database:** Firebase,
-    
+**Frameworks:**  
+Flutter, Django  
 
-*   **Tools & Technologies:** Git, REST APIs
-    
+**State Management:**  
+GetX  
 
-*   **Concepts:** OOP, MVC Architecture, Real-Time Data Handling
-    
+**Backend & Database:**  
+Firebase (Firestore, Authentication)  
 
-**CORE STRENGTHS**
+**Tools & Technologies:**  
+Git, REST APIs  
 
-*   Strong problem-solving skills with ability to debug and optimize Flutter applications
-    
+**Concepts:**  
+OOP, MVC Architecture, Real-Time Data Handling  
 
-*   Effective communication in explaining technical concepts and collaborating on projects
-    
+---
 
-*   Ability to manage multiple tasks and deliver projects on time
-    
+## 📱 Featured Projects
 
-*   Adaptability to learn new technologies and frameworks quickly
-    
+### 🏥 Online Doctor Appointment System (PDBC)
+Flutter, Firebase (Firestore, Auth)
 
-**PROJECTS**
+- Multi-role application (Patient, Doctor, Admin)  
+- Real-time data synchronization using Firestore  
+- Dynamic UI for clinical data and health reviews  
+- Role-based dashboards and workflows  
+- Secure authentication system  
 
-**Online Doctor Appointment System (PDBC)**
+🔗 Repo: https://github.com/muhammadshafeeq-dev/doctor-appointment-app  
 
-_Flutter, Firebase (Firestore, Auth)_
+---
 
-*   Developed a **multi-role mobile application (patient, physician, admin)** with real-time data synchronization using Firestore
-    
+### 🚗 MiAuto Car Rental App
+Flutter, Firebase  
 
-*   Implemented **dynamic UI rendering** for clinical data, health reviews, and physician assessments
-    
+- Vehicle booking and availability tracking  
+- Firebase Authentication integration  
+- Real-time database functionality  
+- User-friendly booking interface  
 
-*   Designed and built **role-based dashboards**, filtering systems, and request management workflows
-    
+🔗 Repo: https://github.com/muhammadshafeeq-dev/car-rental-app  
 
-*   Integrated **secure authentication** and structured backend data handling
-    
+---
 
-*   Utilized **GetX for state management** to improve performance and maintainability
-    
+### 💇 Adan Hair Salon App
+Flutter  
 
-**MiAuto Car Rental App**
+- Appointment booking with time-slot scheduling  
+- Clean and responsive UI  
+- Service selection and booking management  
 
-_Flutter, Firebase_
+🔗 Repo: https://github.com/muhammadshafeeq-dev/salon-booking-app  
 
-*   Built a car rental platform supporting **vehicle booking, availability tracking, and user management**
-    
+---
 
-*   Implemented **Firebase Authentication** and real-time database integration
-    
+### 📖 Bible FAQ App
+Flutter  
 
-*   Designed intuitive UI for **vehicle browsing, booking flow, and rental tracking**
-    
+- Categorized FAQ-based application  
+- Simple and intuitive UI  
+- Optimized for readability and navigation  
 
-**Adan Hair Salon App**
+🔗 Repo: https://github.com/muhammadshafeeq-dev/bible-faq-app  
 
-_Flutter_
+---
 
-*   Developed an appointment booking system with **time-slot scheduling functionality**
-    
+## 📊 GitHub Stats
 
-*   Designed responsive UI for **service selection and booking management**
-    
+![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?muhammadshafeeq-dev=your-muhammadshafeeq-dev&show_icons=true)
 
-**Bible FAQ App**
+---
 
-_Flutter_
+## 📫 Contact Me
 
-*   Created a structured FAQ-based mobile application with categorized content
-    
+📧 Email: shafeeqashiqai@gmail.com  
+📍 Location: Bahawalpur, Pakistan  
 
-*   Designed a simple, user-friendly interface for easy navigation and readability
-    
+---
 
-**EXPERIENCE**
+## ⚡ Strengths
 
-**Flutter Developer – Flutter Studio2024 – Present**
+- Problem-solving and debugging Flutter applications  
+- Building scalable and real-time systems  
+- Quick learner and adaptable to new technologies  
+- Strong focus on clean architecture and performance  
 
-*   Developed and maintained Flutter applications with Firebase integration (Firestore, Auth)
-    
+---
 
-*   Built real-time features including data synchronization and dynamic UI updates
-    
-
-*   Implemented state management using GetX for scalable and maintainable architecture
-    
-
-*   Collaborated on designing role-based systems and user-focused mobile interfaces
-    
-
-**Flutter Developer Intern – Flutter Studio2023 – 2024**
-
-*   Assisted in developing mobile applications using Flutter and Dart
-    
-
-*   Gained hands-on experience with Firebase services and REST API integration
-    
-
-*   Contributed to UI development and debugging, improving app performance and usability
-    
-
-*   Learned and applied best practices in clean code and mobile app architecture
-    
-
-**EDUCATION**
-
-**BS Computer Science**The Islamia University of Bahawalpur2023 – Expected 2027
-
-**LANGUAGES**
-
-*   English
-    
-
-*   Urdu
+⭐ *Always open to  Flutter developer opportunities*
