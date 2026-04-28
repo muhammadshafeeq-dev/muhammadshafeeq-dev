@@ -91,7 +91,18 @@ Flutter
 
 ![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?muhammadshafeeq-dev=your-muhammadshafeeq-dev&show_icons=true)
 
+
+## 📊 GitHub Stats
+
+![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true)
+
 ---
+## 📊 GitHub Stats
+
+![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true)
+
+![Shafeeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadshafeeq-dev&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Contact Me
 
