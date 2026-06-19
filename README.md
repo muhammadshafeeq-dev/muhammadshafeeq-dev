@@ -6,7 +6,9 @@
 
 <p>
   <a href="mailto:shafeeqashiqai@gmail.com"><img src="https://img.shields.io/badge/Email-shafeeqashiqai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/muhammadshafeeq-dev](https://www.linkedin.com/in/muhammad-shafeeq-flutter-developer/)"><img src="https://img.shields.io/badge/LinkedIn-muhammadshafeeq--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/muhammad-shafeeq-flutter-developer/">
+  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="https://github.com/muhammadshafeeq-dev"><img src="https://img.shields.io/badge/GitHub-muhammadshafeeq--dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Bahawalpur%2C%20Pakistan-02569B?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </p>
