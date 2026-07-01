@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=200&section=header&text=Muhammad%20Shafeeq&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Firebase%20%7C%20Mobile%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+2%2B+Years+Experience;Building+Real-Time+Mobile+Applications;Clean+Architecture+%7C+Scalable+Code;4%2B+Production+Apps+on+Android+%26+iOS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+3%3B+Years+Experience;Building+Real-Time+Mobile+Applications;Clean+Architecture+%7C+Scalable+Code;4%2B+Production+Apps+on+Android+%26+iOS)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:shafeeqashiqai@gmail.com"><img src="https://img.shields.io/badge/Email-shafeeqashiqai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -28,7 +28,7 @@ I specialize in building **real-time Firebase-powered mobile apps** with clean a
 ```dart
 class MuhammadShafeeq extends FlutterDeveloper {
   final String location     = "Bahawalpur, Pakistan";
-  final String experience   = "2+ Years";
+  final String experience   = "3+ Years";
   final int productionApps  = 4;
   
   final List<String> currentFocus = [
